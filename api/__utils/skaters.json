@@ -1,0 +1,106 @@
+[
+  {
+    "name": "Tony Hawk",
+    "style": "Vert",
+    "stance": "Goofy",
+    "speed": 6,
+    "air": 7,
+    "hangtime": 5
+  },
+  {
+    "name": "Bob Burnquist",
+    "style": "All around",
+    "stance": "Regular",
+    "speed": 5,
+    "air": 6,
+    "hangtime": 5
+  },
+  {
+    "name": "Steve Caballero",
+    "style": "All around",
+    "stance": "Goofy",
+    "speed": 6,
+    "air": 6,
+    "hangtime": 5
+  },
+  {
+    "name": "Kareem Campbell",
+    "style": "Street",
+    "stance": "Regular",
+    "speed": 5,
+    "air": 7,
+    "hangtime": 2
+  },
+  {
+    "name": "Rune Glifberg",
+    "style": "Vert",
+    "stance": "Regular",
+    "speed": 6,
+    "air": 7,
+    "hangtime": 7
+  },
+  {
+    "name": "Eric Koston",
+    "style": "Vert",
+    "stance": "Goofy",
+    "speed": 5,
+    "air": 4,
+    "hangtime": 3
+  },
+  {
+    "name": "Bucky Lasek",
+    "style": "Vert",
+    "stance": "Regular",
+    "speed": 6,
+    "air": 7,
+    "hangtime": 7
+  },
+  {
+    "name": "Rodney Mullen",
+    "style": "Street",
+    "stance": "Regular",
+    "speed": 5,
+    "air": 2,
+    "hangtime": 2
+  },
+  {
+    "name": "Chad Muska",
+    "style": "Street",
+    "stance": "Regular",
+    "speed": 6,
+    "air": 4,
+    "hangtime": 3
+  },
+  {
+    "name": "Andrew Reynolds",
+    "style": "Street",
+    "stance": "Regular",
+    "speed": 4,
+    "air": 4,
+    "hangtime": 2
+  },
+  {
+    "name": "Geoff Rowley",
+    "style": "Street",
+    "stance": "Regular",
+    "speed": 4,
+    "air": 6,
+    "hangtime": 2
+  },
+  {
+    "name": "Elissa Steamer",
+    "style": "Street",
+    "stance": "Regular",
+    "speed": 5,
+    "air": 6,
+    "hangtime": 4
+  },
+  {
+    "name": "Jamie Thomas",
+    "style": "Street",
+    "stance": "Regular",
+    "speed": 6,
+    "air": 4,
+    "hangtime": 3
+  }
+]
